@@ -5,7 +5,7 @@ function result(){
    if( inputData>=18){
     alert("valid Data");
 
-   }
+   }<!-- update -->
    else
     alert("not valid");
     let changeColor=document.getElementById('text');
